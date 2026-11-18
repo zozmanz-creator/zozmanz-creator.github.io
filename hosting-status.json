@@ -2,5 +2,7 @@
   "site": "Gravikind and public Chisinau projects",
   "hostingRepository": "zozmanz-creator/zozmanz-creator.github.io",
   "layout": "public-sites-v1",
-  "preservedBasePath": "/zoz-external-brain-app/"
+  "preservedBasePath": "/zoz-external-brain-app/",
+  "repositoryId": 1462748332,
+  "history": "independent-files-only-20261118"
 }
